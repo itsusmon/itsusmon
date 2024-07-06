@@ -5,7 +5,7 @@ class AboutMe {
     val firstName = "Usmon"
     val lastName = "Abdurakhmanov"
 -   val university = "TUIT"
--   val remainingCollegeYears = 0.5
+-   val remainingYears = 0.5
 +   val education = "TUIT (Graduated May 2024)"
     val role = "An entry-level Android Developer"
     val linkedin = "https://linkedin.com/in/UsmonWasTaken/"
